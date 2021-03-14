@@ -23,7 +23,7 @@ __Ambiente local para el dia_1:__ https://github.com/p1nox/el_dev/wiki/Ambiente-
 
 __Enlaces relacionados del dia_1:__ https://github.com/p1nox/el_dev/wiki/Enlaces-Relacionados
 
-__Presentacion:__
+__Presentacion:__ https://speakerdeck.com/p1nox/el-dev-dia-1
 
 ------
 
