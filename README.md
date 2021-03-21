@@ -29,4 +29,13 @@ __Presentacion:__ https://speakerdeck.com/p1nox/el-dev-dia-1
 
 # Dia 2
 
-_TBD_
+- Generaciones
+	* Cuarta (SQL)
+	* Quinta (Inteligencia Artificial)
+
+- Epilogo
+Donde seguir aprendiendo? Campos de trabajo? Responsabilidades? Cargos?
+
+__Enlaces relacionados del dia_2:__ https://github.com/p1nox/el_dev/wiki/Enlaces-Relacionados-II
+
+__Presentacion:__ https://speakerdeck.com/p1nox/el-dev-dia-2
